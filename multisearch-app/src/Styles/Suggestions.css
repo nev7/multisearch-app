@@ -1,0 +1,16 @@
+.suggestions-box {
+    text-align: left;
+    margin-left: 25%; 
+    height: auto;
+}
+
+.suggestions-box li {
+    list-style: none;
+    margin: 0 0 2% 0;
+    font-size: 12px;
+}
+
+.suggestions-box li a {
+    text-decoration: none;
+    color: black;
+}
